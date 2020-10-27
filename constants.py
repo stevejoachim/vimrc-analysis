@@ -1,2 +1,2 @@
 
-search_result_file = 'vimrcs.pkl'
+search_result_file = "search_results.pkl"

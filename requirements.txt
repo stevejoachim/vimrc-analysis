@@ -1,0 +1,3 @@
+PyGithub==1.53
+seaborn==0.11.0
+wordcloud==1.8.0
